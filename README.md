@@ -5,10 +5,13 @@ AlgorithmTypeBest ForK-MeansPartitionalConvex, well-separated blobsDBSCANDensity
 -----------
  Interactive Features
 
-4 Dataset types — Gaussian Blobs, Two Moons, Concentric Circles, Random
-Live parameter tuning — adjust k, ε (eps), minPts via sliders
-Real-time visualization — SVG canvas with color-coded clusters + centroid markers
-Results panel — cluster sizes, noise points, PCA variance explained
+**4 Dataset types** — Gaussian Blobs, Two Moons, Concentric Circles, Random
+
+**Live parameter tuning** — adjust k, ε (eps), minPts via sliders
+
+**Real-time visualization** — SVG canvas with color-coded clusters + centroid markers
+
+**Results panel** — cluster sizes, noise points, PCA variance explained
 ----------------------
 
 3 Tabs
